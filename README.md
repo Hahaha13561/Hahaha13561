@@ -66,55 +66,18 @@
 <h3 align="center">🌐 Socials</h3>
 
 <p align="center">
-  <!-- WhatsApp -->
-  <a href="https://wa.me/905412900581" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <!-- Telegram -->
-  <a href="https://t.me/+905412900581" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <!-- Telefon -->
-  <a href="tel:+905412900581" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-34B7F1?style=for-the-badge&logo=googlephone&logoColor=white" alt="Phone" />
-  </a>
-  <!-- Instagram -->
-  <a href="https://instagram.com/__13561__" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <!-- Threads -->
-  <a href="https://www.threads.net/@__13561__" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
-  </a>
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@__13561__" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  <!-- Reddit -->
-  <a href="https://www.reddit.com/user/Hahaha13561" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
-  </a>
-  <!-- Steam -->
-  <a href="https://steamcommunity.com/id/Hahaha13561" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  </a>
-  <!-- Epic Games -->
-  <a href="https://store.epicgames.com" target="_blank">
-    <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
-  </a>
-  <!-- Xbox -->
-  <a href="https://account.xbox.com/en-us/profile?gamertag=Hahaha13561" target="_blank">
-    <img src="https://account.xbox.com/en-us/profile?gamertag=Hahaha13561" target="_blank">
-      <img src="https://img.shields.io/badge/Xbox-107C41?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" />
-  </a>
-  <!-- Facebook -->
-  <a href="https://facebook.com/share/14m43yBcmEq/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:haypro13561@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://wa.me/905412900581" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/+905412900581" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="tel:+905412900581" target="_blank"><img src="https://img.shields.io/badge/Phone-34B7F1?style=for-the-badge&logo=googlephone&logoColor=white" alt="Phone" /></a>
+  <a href="https://instagram.com/__13561__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.threads.net/@__13561__" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+  <a href="https://www.tiktok.com/@__13561__" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://www.reddit.com/user/Hahaha13561" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://steamcommunity.com/id/Hahaha13561" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
+  <a href="https://store.epicgames.com" target="_blank"><img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" /></a>
+  <a href="https://account.xbox.com/en-us/profile?gamertag=Hahaha13561" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C41?style=for-the-badge&logo=xbox&logoColor=white" alt="Xbox" /></a>
+  <a href="https://facebook.com/share/14m43yBcmEq/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:haypro13561@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
