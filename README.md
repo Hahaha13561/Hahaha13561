@@ -15,10 +15,9 @@
 </p>
 
 <p align="center">
-  <b>Nasıl Oynanır?</b><br/>
-  • Hamle yapmak için <a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=chess%7Cmove%3Ae2e4&body=Hamle%3A+e2e4"><b>buraya tıklayarak e2e4 hamlesi yapabilirsin</b></a>.<br/>
-  • Ya da yeni bir Issue açıp başlığa <code>chess|move:e2e4</code> (veya istediğin hamleyi) yazabilirsin.<br/>
-  • Tahtayı sıfırlamak için başlığı <code>chess|reset</code> olan bir Issue açabilirsin.
+  <b>How 2 Play</b><br/>
+  • Hamle yapmak için <a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=chess%7Cmove%3Ae2e4&body=Hamle%3A+e2e4"><b>you can click here to do e2e4</b></a>.<br/>
+  • Or open a new Issue and write your move: <code>chess|move:e2e4</code> (or any else move) <br/>
 </p>
 
 <h4 align="center">❌ Tic-Tac-Toe ⭕</h4>
