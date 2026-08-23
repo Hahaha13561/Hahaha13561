@@ -16,7 +16,7 @@
 
 <p align="center">
   <b>How 2 Play</b><br/>
-  • Hamle yapmak için <a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=chess%7Cmove%3Ae2e4&body=Hamle%3A+e2e4"><b>you can click here to do e2e4</b></a>.<br/>
+  • <a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=chess%7Cmove%3Ae2e4&body=Hamle%3A+e2e4"><b>You can click here to do e2e4</b></a>.<br/>
   • Or open a new Issue and write your move: <code>chess|move:e2e4</code> (or any else move) <br/>
 </p>
 
