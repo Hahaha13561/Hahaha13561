@@ -81,3 +81,16 @@
 </p>
 
 ---
+
+---
+
+<!-- SPOTIFY ŞU AN DİNLİYORUM -->
+<h3 align="center">🎵 Listening in Spotify: </h3>
+
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-thingy-git-main-hahaha13561s-projects.vercel.app/api/orchestrator" alt="Spotify Currently Playing" />
+  </a>
+</p>
+
+---
