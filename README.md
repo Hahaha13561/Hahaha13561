@@ -32,19 +32,19 @@
 
 <table align="center">
   <tr>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A1&body=Hamle%3A+1"><b>[ 1 ]</b></a></td>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A2&body=Hamle%3A+2"><b>[ 2 ]</b></a></td>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A3&body=Hamle%3A+3"><b>[ 3 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A1&body=Hamle%3A+1"><b>[ 1 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A2&body=Hamle%3A+2"><b>[ 2 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A3&body=Hamle%3A+3"><b>[ 3 ]</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A4&body=Hamle%3A+4"><b>[ 4 ]</b></a></td>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A5&body=Hamle%3A+5"><b>[ 5 ]</b></a></td>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A6&body=Hamle%3A+6"><b>[ 6 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A4&body=Hamle%3A+4"><b>[ 4 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A5&body=Hamle%3A+5"><b>[ 5 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A6&body=Hamle%3A+6"><b>[ 6 ]</b></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A7&body=Hamle%3A+7"><b>[ 7 ]</b></a></td>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A8&body=Hamle%3A+8"><b>[ 8 ]</b></a></td>
-    <td align="center"><a href="https://github.com/KULLANICI_ADIN/KULLANICI_ADIN/issues/new?title=ttt%7Cmove%3A9&body=Hamle%3A+9"><b>[ 9 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A7&body=Hamle%3A+7"><b>[ 7 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A8&body=Hamle%3A+8"><b>[ 8 ]</b></a></td>
+    <td align="center"><a href="https://github.com/Hahaha13561/Hahaha13561/issues/new?title=ttt%7Cmove%3A9&body=Hamle%3A+9"><b>[ 9 ]</b></a></td>
   </tr>
 </table>
 
