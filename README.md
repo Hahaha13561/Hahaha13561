@@ -88,9 +88,11 @@
 <h3 align="center">🎵 Listening in Spotify: </h3>
 
 <p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-thingy-git-main-hahaha13561s-projects.vercel.app/api/orchestrator" alt="Spotify Currently Playing" />
-  </a>
-</p>
+<a href="https://Hahaha13561.pythonanywhere.com/link">
+  <img
+    src="https://Hahaha13561.pythonanywhere.com?spin_true&scan=true&eq_color=rainbow&theme=dark"
+    alt="Current Spotify Song"
+  />
+</a>
 
 ---
