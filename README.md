@@ -88,11 +88,9 @@
 <h3 align="center">🎵 Listening in Spotify: </h3>
 
 <p align="center">
-<a href="https://Hahaha13561.pythonanywhere.com/link">
-  <img
-    src="https://Hahaha13561.pythonanywhere.com?spin_true&scan=true&eq_color=rainbow&theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
+  <a href="https://open.spotify.com">
+    <img src="https://hahaha13561.pythonanywhere.com/?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Spotify Currently Playing" />
+  </a>
+</p>
 
 ---
