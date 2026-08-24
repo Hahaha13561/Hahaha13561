@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hahaha13561&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="49%" alt="GitHub Stats" />
@@ -81,6 +81,11 @@
 </p>
 
 ---
+<h3 align="center">Activity Overview</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hahaha13561&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
