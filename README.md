@@ -88,6 +88,36 @@
 </p>
 
 ---
+<h3 align="center">About Me</h3>
 
+<p align="center">
+  Mostly into low-level systems, compiler development and reverse engineering. Trying to understand how computers actually work. Linux enthusiast, inspired by Torvalds and Davis. Been using Git and GitHub a while, only recently started using it properly.
+</p>
+
+<br />
+
+### Hot Takes
+* **Into:** C, Rust, Python, JavaScript, Linux.
+* **Hard Pass:** Java & Oracle (pure hate), C# (nostalgic memories, but mostly annoys me).
+* **Meh:** C++ (it exists, just not really my thing).
+
+<br />
+
+### Projects
+* 🛠️ **Wrench** *(Ongoing)* — A custom programming language compiler written from scratch. Major release in progress.
+* 🌀 **HairOS** *(Inactive, to be reformatten in future)* — The old version was just a Linux spin with some CSS tweaks (nothing impressive). The goal is to turn this into an actual custom kernel/OS from scratch in the future.
+* 🛰️ **ROTAM** *(Inactive)* — Tracking app project, it didn't pass the competition phase.
+* 📦 **OKO83 / MATCAP / Matçap** *(Archived / Cancelled)* — Old experiments, now buried or private.
+* 🤝 **Contributions** — Contributed to `simpaudio`. I like jumping into random repos when I'm bored and tweaking code.
+
+<br />
+
+## Open to Help & Collaboration
+You need a hand with a project, feel free to reach out. I like solving random code problems in random repositories when I've got spare time.
 
 ---
+
+### Phrase of the Day
+<!-- QUOTE:START -->
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
+<!-- QUOTE:END -->
