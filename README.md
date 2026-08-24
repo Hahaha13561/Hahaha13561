@@ -53,8 +53,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hahaha13561&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hahaha13561&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hahaha13561&show_icons=true&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hahaha13561&layout=compact&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -84,13 +84,5 @@
 
 ---
 
-<!-- SPOTIFY ŞU AN DİNLİYORUM -->
-<h3 align="center">🎵 Listening in Spotify: </h3>
-
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://hahaha13561.pythonanywhere.com/?spin=true&scan=true&eq_color=rainbow&theme=dark" alt="Spotify Currently Playing" />
-  </a>
-</p>
 
 ---
