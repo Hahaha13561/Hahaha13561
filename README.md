@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"Any time something is written against me, I not only share the sentiment but feel I could do the job far better myself. Perhaps I should advise would-be enemies to send me their grievances beforehand, with full assurance that they will receive my every aid and support. I have even secretly longed to write, under a pen name, a merciless tirade against myself. -Jorge Luis Borges."*
+> *"No."*
 <!-- QUOTE:END -->
