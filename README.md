@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"These aspiring scientists never blindly memorize what they are taught or unconditionally believe in its truth, because even we ourselves doubt the truth of what we teach. -Cahit Arf."*
+> *"Talk is cheap. Show me the code. — Torvalds."*
 <!-- QUOTE:END -->
