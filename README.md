@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"Talk is cheap. Show me the code. — Torvalds."*
+> *"It's okay! Gun's not loaded... see? -Johhny Ace."*
 <!-- QUOTE:END -->
