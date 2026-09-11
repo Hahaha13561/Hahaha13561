@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"¿Quién es? ¿Quién es? - Billy the Kid."*
+> *"Don't let others do your work for you. Because they'll do it their own way. -Cahit Arf."*
 <!-- QUOTE:END -->
