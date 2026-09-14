@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"Bad programmers worry about the code. Good programmers worry about data structures. - Torvalds."*
+> *"We must delve into our roots and reconstruct what history has divided. We can't wait for them to approach us. We must reach out to them. - Ataturk."*
 <!-- QUOTE:END -->
