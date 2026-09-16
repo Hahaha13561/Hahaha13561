@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"Talk is cheap. Show me the code. — Torvalds."*
+> *"An idolater is someone who worships something made by human hands. - Davis."*
 <!-- QUOTE:END -->
