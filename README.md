@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"An idolater is someone who worships something made by human hands. - Davis."*
+> *"UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity. — Dennis Ritchie."*
 <!-- QUOTE:END -->
