@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"¿Quién es? ¿Quién es? - Billy the Kid."*
+> *"An idolater is someone who worships something made by human hands. - Davis."*
 <!-- QUOTE:END -->
