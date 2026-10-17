@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"Bad programmers worry about the code. Good programmers worry about data structures. - Torvalds."*
+> *"It's okay! Gun's not loaded... see? -Johhny Ace."*
 <!-- QUOTE:END -->
