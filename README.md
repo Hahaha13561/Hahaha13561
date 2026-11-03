@@ -119,5 +119,5 @@ You need a hand with a project, feel free to reach out. I like solving random co
 
 ### Phrase of the Day
 <!-- QUOTE:START -->
-> *"C is quirky, flawed, and an enormous success. - Dennis Ritchie."*
+> *"There are only two kinds of programming languages: the ones people complain about and the ones nobody uses. — Bjarne Stroustrup."*
 <!-- QUOTE:END -->
